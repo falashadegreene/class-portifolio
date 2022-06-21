@@ -72,7 +72,7 @@ header .nav {
 	z-index: -500;
 	border-top: 5px solid #696969;
 	border-radius: 0 0 5px 5px;
-	background-color: #696969;
+	//background-color: #696969;
 	color: white;
 }
 
@@ -142,7 +142,7 @@ header h1 {
 	background: #ffffff;
 	display: inline-block;
 	margin: 0 auto 5% auto;
-	padding: 10px 10px 5px;
+	//padding: 10px 10px 5px;
 	text-align: center;
 	text-decoration: none;
 	-webkit-box-shadow: 0 4px 6px rgba(0, 0, 0, .3);
@@ -153,6 +153,7 @@ header h1 {
 	transition: all .20s linear;
 	z-index: 0;
 	position: relative;
+	
 }
 
 .foto div:after {
@@ -185,6 +186,7 @@ header h1 {
 .polaroid img {
 	display: block;
 	max-width: 200px;
+	
 }
 
 .polaroid span {
