@@ -27,6 +27,7 @@ html {
 .header-icon {
 	height: 150px;
 	width: 150px;
+	color: white;
 }
 
 header {
@@ -413,6 +414,10 @@ header h1 {
 	color: white;
 	text-align: center;
 	position: relative;
+}
+
+.skill-icon:hover {
+	color: black;
 }
 
 footer {
