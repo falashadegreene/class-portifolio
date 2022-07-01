@@ -47,9 +47,9 @@ class Footer extends Component {
               >
                 <span
                   //className="iconify language-icon"
-                  //data-icon="twemoji-flag-for-flag-poland"
-                  //data-inline="false"
-                  //id={window.$secondaryLanguageIconId}
+                  data-icon="twemoji-flag-for-flag-poland"
+                  data-inline="false"
+                  id={window.$secondaryLanguageIconId}
                 ></span>
               </div>
             </div>

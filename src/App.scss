@@ -27,6 +27,7 @@ html {
 .header-icon {
 	height: 150px;
 	width: 150px;
+	color: white;
 }
 
 header {
@@ -45,6 +46,9 @@ header {
 	background-size: cover;
 	padding-top: 150px;
 	padding-bottom: 0;
+	background-image: url("./components/background.png");
+	background-size: cover;
+	
 }
 
 header .nav {
@@ -413,6 +417,10 @@ header h1 {
 	color: white;
 	text-align: center;
 	position: relative;
+}
+
+.skill-icon:hover {
+	color: black;
 }
 
 footer {
